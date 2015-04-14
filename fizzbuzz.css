@@ -1,0 +1,19 @@
+pre {
+  color: blue;
+  border-bottom: 2px dashed black;
+  padding: 0px 5px;
+  margin: 1;
+  height: 1em;
+  line-height: 0em;
+  font-size: 2em;
+  vertical-align: middle;
+}
+.console, html, body {
+  margin: 10; padding: 0;
+}
+.console { width: 100%; float: left;}
+
+h1 {  
+  font-family: Impact, Charcoal, sans-serif;
+  color: green;
+}
